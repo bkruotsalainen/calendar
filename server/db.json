@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": 1707735600000,
+      "title": "Job interview",
+      "description": ""
+    },
+    {
+      "date": 1707861600000,
+      "title": "Valentine's Day",
+      "description": "Craft some cards for friends",
+      "id": 3
+    },
+    {
+      "date": 1709551800000,
+      "title": "Sister's birthday",
+      "description": "Remember to buy a gift!",
+      "id": 4
+    },
+    {
+      "date": 1708203600000,
+      "title": "Movie night",
+      "description": "",
+      "id": 5
+    }
+  ]
+}
