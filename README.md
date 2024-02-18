@@ -3,3 +3,11 @@
 # 📅 Calendar
 ⚠️ Work in progress ⚠️ <br><br>
 Simple calendar for example to be used as a browser landing page.
+
+# 📝 To do
+- [x] Add events
+- [x] Delete events
+- [ ] Edit events
+- [ ] Refresh data after changes
+- [ ] Option for time adjustments
+- [ ] Layout polish
